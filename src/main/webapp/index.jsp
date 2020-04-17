@@ -8,6 +8,7 @@
 </head>
 <body>
    Hello how are you???? 
+	I am doing fine.
 	<h1>Thanks a lot for being so patient through the session!</h1>
     	<form action="helloServlet" method="post">
     	Enter your name: <input type="text" name="username" size="20">
